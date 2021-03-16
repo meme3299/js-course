@@ -1,0 +1,43 @@
+header{
+    text-align: center;
+    background-color: #f4f4f4;
+
+}
+
+#my-form {
+    display: block;
+    text-align:left;
+    
+    margin: auto;
+    width: 40%;
+    height: 200px;
+    background-color: #f4f4f4;
+    padding-left: 10%;
+    
+}
+.container{
+width: 70%;
+margin:auto;
+}
+.btn{
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    margin-top: 5px;
+    color:white;
+    background-color: black;
+}
+
+input[ type='text']{
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+.item{
+
+    width: 100%;
+    background-color: #f4f4f4;
+}
+.error{
+    background-color: red;
+}
